@@ -19,8 +19,8 @@ SwiftUI.
 ## Run
 
 ```bash
-git clone https://github.com/dpogonia/Scrummer-Apple.git
-cd Scrummer-Apple
+git clone https://github.com/dpogonia/Scrummer-APPLE.git
+cd Scrummer-APPLE
 open Scrummer.xcodeproj
 ```
 
